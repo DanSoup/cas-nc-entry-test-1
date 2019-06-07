@@ -1,5 +1,5 @@
 /*
-  TEST 1
+  TASK 1
 
     Take this array of names and fix the capitalization on them. 
 
