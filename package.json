@@ -1,0 +1,19 @@
+{
+  "name": "cas-nc-entry-test-1",
+  "version": "1.0.0",
+  "description": "A set of tests to simulate the Northcoders entry challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanSoup/cas-nc-entry-test-1.git"
+  },
+  "author": "Dan Soup (Daniel Thomas)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanSoup/cas-nc-entry-test-1/issues"
+  },
+  "homepage": "https://github.com/DanSoup/cas-nc-entry-test-1#readme"
+}
