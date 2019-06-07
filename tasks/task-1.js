@@ -1,7 +1,6 @@
 /*
   TASK 1
 
-    Take this array of names and fix the capitalization on them. 
 
 
   PART 1: 
@@ -12,14 +11,14 @@
     susan => Susan
     vaneSSa => Vanessa
     
-    Make sure you console.log your new array.
+    Make sure you log your new array.
 
 
   PART 2:
     
     Create another NEW array that only contains names that begin with an "S". You should use
     the array you made in PART 1 so the names have the correct capitalization. Make sure you
-    console.log your new array.
+    log your new array.
 
 
   PART 3:
@@ -29,7 +28,7 @@
     Daniel => leinaD
     ROSS => SSOR
 
-    For this part capitalization is not important. Make sure you console.log your new array.
+    For this part capitalization is not important. Make sure you log your new array.
 
     
 */
