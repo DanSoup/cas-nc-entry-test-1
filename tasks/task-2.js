@@ -20,3 +20,5 @@
 */
 
 const numbers = [5, 3, 8, 1, 2, 4, 9, 2, 8, 7, 6, 5, 2, 0, 2];
+
+// WRITE YOUR CODE BELOW THIS LINE
